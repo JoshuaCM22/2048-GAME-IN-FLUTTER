@@ -2,7 +2,7 @@
 
 * Purpose: My Project
 * Programming Language: Dart
-* Mobile Application Framework: Flutter
+* UI Software Development Kit: Flutter
 * Code or Text Editor used: Visual Studio Code
 * Type of Application: Mobile Application (Native Application)
 
