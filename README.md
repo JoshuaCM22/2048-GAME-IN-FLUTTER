@@ -3,6 +3,7 @@
 * Purpose: My Project
 * Programming Language: Dart
 * UI Software Development Kit: Flutter
+* Database: SQLite
 * Code or Text Editor used: Visual Studio Code
 * Type of Application: Mobile Application (Native Application)
 
